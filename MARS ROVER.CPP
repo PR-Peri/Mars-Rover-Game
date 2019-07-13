@@ -1,13 +1,9 @@
 /********************************************
-Course : TCP1101 Programming Fundamentals
-Session: Trimester 2, 2018/19
-Name: PERIVITTA A/P RAJENDRAN
-ID  : 1171101579
-Lecture Section : TC02
-Tutorial Section: TT03
+Name: PR
+ID  : *****************
 Assignment: 2
-Email: 1171101579@STUDENT.MMU.EDU.MY
-Phone: 0165260944
+Email: **********@STUDENT.MMU.EDU.MY
+Phone: *********
 ********************************************/
 
 #include <iostream>
